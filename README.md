@@ -1,2 +1,9 @@
-# ocr-text-recognition-project
-Usando a API de Reconhecimento de Texto (OCR) do Azure Cognitive Services para extrair texto de imagens. Construindo um aplicativo que processa imagens, identificar texto  e exibir o conteúdo extraído.
+# OCR Text Recognition with Azure Cognitive Services
+
+Este projeto utiliza o serviço de Reconhecimento de Texto (OCR) da API Computer Vision do Azure para extrair texto de imagens.
+
+## Como usar
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/ocr-text-recognition.git
